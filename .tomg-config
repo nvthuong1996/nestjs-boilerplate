@@ -1,0 +1,34 @@
+[
+  {
+    "resultsPath": "src/modules/business",
+    "pluralizeNames": true,
+    "noConfigs": false,
+    "convertCaseFile": "none",
+    "convertCaseEntity": "pascal",
+    "convertCaseProperty": "camel",
+    "propertyVisibility": "none",
+    "lazy": false,
+    "convertEol": "CRLF",
+    "activeRecord": false,
+    "generateConstructor": false,
+    "customNamingStrategyPath": "",
+    "relationIds": false,
+    "strictMode": "none",
+    "skipSchema": false,
+    "indexFile": false,
+    "exportType": "named"
+  },
+{
+  "host": "localhost",
+  "port": 3306,
+  "databaseName": "business",
+  "user": "root",
+  "password": "",
+  "schemaName": "",
+  "databaseType": "mysql",
+  "ssl": false,
+  "skipTables": [],
+  "onlyTables": []
+}
+]
+
